@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "author": {
+    "name": "Reginaldo Motta",
+    "email": "reginaldomcv@gmail.com",
+    "url": "https://reginaldomotta.github.io/contato/"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/reginaldomotta/typescript.git",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.18",
+    "typescript": "^5.2.2"
+  }
+}
